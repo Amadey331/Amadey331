@@ -61,8 +61,7 @@
 
 ## 📫 Контакты
 
-- Telegram: [@Amadey331](https://t.me/Amadey331)
-- Email: *(по запросу)*
+- Telegram: [@quarzozo)
 
 ---
 

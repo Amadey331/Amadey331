@@ -37,7 +37,7 @@
 - `aiogram`, `pyTelegramBotAPI`
 - `Binance API`, `Bybit API`
 - `requests`, `aiohttp` — взаимодействие с внешними API
-
+- `FastApi`
 ### Базы данных и ORM:
 - `PostgreSQL`, `SQLite`
 - `SQLAlchemy`, `Async SQLAlchemy`
